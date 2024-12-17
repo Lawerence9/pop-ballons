@@ -1,12 +1,16 @@
-# Pop Balloons game using Javascript, HTML/CSS 🎈🎊
+<!-- hide -->
+# Juego de explotar globos usando Javascript, HTML/CSS 🎈🎊
+<!-- endhide -->
 
 Este es un buen juego para practicar HTML, CSS y un poco de Javascript. El objetivo de este juego es reventar todos los globos haciendo clic en ellos.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  Cómo iniciar este proyecto
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Abrir este enlace con Gitpod en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-pop-baloons-javascript.git
+a) Abrir este enlace con [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu navegador: https://s.4geeks.com/start?repo=breatheco-de/exercise-pop-baloons-javascript
 
 b) Clonar este repositorio localmente en tu computador:
 ```sh
@@ -16,6 +20,7 @@ Ejecuta el sitio web con el siguiente comando en tu terminal: `$ npx http-server
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
+</onlyfor>
 
 ## 📝 Instrucciones
 
